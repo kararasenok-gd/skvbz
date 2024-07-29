@@ -1,0 +1,7 @@
+pycord
+py-cord
+asyncio
+sqlite3
+random
+re
+configparser
